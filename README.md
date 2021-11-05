@@ -1,2 +1,3 @@
-# honeypots_SC
-# honeypots_SC
+# smart-contract-honey-pots
+
+This repo contains a collection of smart contract honeypots. 
